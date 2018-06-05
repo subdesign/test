@@ -1,0 +1,19 @@
+{
+    "name": "subdesign/test",
+    "description": "test only",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Barna Szalai",
+            "email": "szalai.b@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Subdesign\\Test\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
